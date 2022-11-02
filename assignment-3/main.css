@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(207, 205, 187);
+    box-sizing: border-box;
+}
+
+.form
+{
+    text-align: center;
+    border: 3px solid  rgb(27, 27, 27);
+    
+   
+    
+}
+.table
+{
+    display: inline-block;
+    width: 700px;
+    text-align: center;
+    border: 3px solid rgb(27, 27, 27);
+    margin-left: 400px;
+
+}
